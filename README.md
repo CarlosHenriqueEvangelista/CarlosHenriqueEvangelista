@@ -1,4 +1,14 @@
-### Hello there <img src="https://media2.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif?cid=790b76119f67eab981c56343dac85a1a4af132f6a5a2928d&rid=giphy.gif&ct=g" width="50px" position="relative" top="400px"> I'm Carlos Henrique
+### Hello there <img src="https://media2.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif?cid=790b76119f67eab981c56343dac85a1a4af132f6a5a2928d&rid=giphy.gif&ct=g" width="50px"> I'm Carlos Henrique
+<img src="https://komarev.com/ghpvc/?username=CarlosHenriqueEvangelista&color=blue">
+
+<img src="https://c.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" align="right">
+
+- 16 years old student
+- [Rocketseat](https://github.com/Rocketseat) student
+- I understand from JavaScript, HTML, CSS and React
+
+
+
 <!--
 **CarlosHenriqueEvangelista/CarlosHenriqueEvangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
