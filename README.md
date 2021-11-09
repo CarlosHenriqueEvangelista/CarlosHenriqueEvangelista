@@ -1,11 +1,11 @@
 <h1> Hello there <img src="https://media2.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif?cid=790b76119f67eab981c56343dac85a1a4af132f6a5a2928d&rid=giphy.gif&ct=g" width="50px" align="center"> I'm Carlos Henrique </h1>
-<img src="https://komarev.com/ghpvc/?username=CarlosHenriqueEvangelista&color=blueviolet">
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueEvangelista&layout=compact&theme=tokyonight" align="right" width="430px">
 <img src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueEvangelista&show_icons=true&theme=tokyonight" align="right" width="430px">
 
-
+<img src="https://komarev.com/ghpvc/?username=CarlosHenriqueEvangelista&color=blueviolet">
 
 - 16 years old student
 - [Rocketseat](https://github.com/Rocketseat) student
