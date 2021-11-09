@@ -2,7 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=CarlosHenriqueEvangelista&color=blueviolet">
 
 
-<img src="https://c.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueEvangelista&layout=compact&theme=tokyonight" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueEvangelista&show_icons=true&theme=tokyonight" align="right">
+
 
 
 - 16 years old student
@@ -22,11 +24,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode)
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)
 
+<img src="https://c.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" align="right">
 
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueEvangelista&layout=compact&theme=tokyonight" align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueEvangelista&show_icons=true&theme=tokyonight" align="right">
 
 <!--
 **CarlosHenriqueEvangelista/CarlosHenriqueEvangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
