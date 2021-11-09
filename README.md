@@ -26,6 +26,11 @@
 
 <img src="https://c.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" align="right">
 
+## You can also find me at
+
+<a href="https://www.linkedin.com/in/carlos-henrique-146164166/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px">
+</a>
 
 
 <!--
