@@ -2,8 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=CarlosHenriqueEvangelista&color=blueviolet">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueEvangelista&layout=compact&theme=tokyonight" align="right" widht="330px">
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueEvangelista&show_icons=true&theme=tokyonight" align="right" width="330px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueEvangelista&layout=compact&theme=tokyonight" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueEvangelista&show_icons=true&theme=tokyonight" align="right">
 
 
 
